@@ -1,0 +1,48 @@
+{
+   "profesores": [
+        {
+            "nombre": "Sergio",
+            "apellido": "Code",
+            "materias": [
+                {
+                    "nombre": "NodeJS desde cero"
+                },
+                {
+                    "nombre": "ReactJS desde cero"
+                },
+                {
+                    "nombre": "JS desde cero"
+                }
+            ]
+        }
+   ],
+   "alumnos": [
+        {
+            "nombre": "Elon",
+            "apellido": "Musk",
+            "promedio": 8.2
+        },
+        {
+            "nombre": "Mark",
+            "apellido": "Zuckerberg",
+            "promedio": 9
+        }
+   ],
+   "cursos": [
+        {
+            "nombre": "NodeJS desde cero",
+            "duracion": 7,
+            "dificultad": "alta"
+        },
+        {
+            "nombre": "ReactJS desde cero",
+            "duracion": 8,
+            "dificultad": "alta"
+        },
+        {
+            "nombre": "JS desde cero",
+            "duracion": 8,
+            "dificultad": "intermedia"
+        }
+   ]
+}
